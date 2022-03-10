@@ -6,4 +6,4 @@
 If you are using this for personal use, I recommend building this with a personal decrypting tool.
 I also do not recommend using this software for general use.
 
-## Thank you for reading, and enjot CRB v4!
+## Thank you for reading, and enjoy CRB v4!
